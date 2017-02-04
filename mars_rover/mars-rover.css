@@ -1,0 +1,23 @@
+.grid{
+  position: relative;
+  height: 500px;
+  width: 700px;
+  border: 2px solid blue;
+  left: 350px;
+  top: 50px;
+  }
+
+
+
+.allbutton{
+position: relative;
+height: 200px;
+width: 400px;
+border: 2px solid blue;
+left: 500px;
+top: 100px;
+}
+button{
+  border: 1px solid blue;
+  background-color: white;
+}
